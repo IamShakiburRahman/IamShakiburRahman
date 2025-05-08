@@ -21,9 +21,9 @@ You can use the website to generate badges: https://shields.io/
   - Deep Learning for Coders by [fast.ai](http://course.fast.ai)
   - DeepLearning.AI TensorFlow Developer [Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
   - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow [Book](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-- Founding own SAAS platform and exploring different global startups. 
+- Founder : SAAS platform and exploring different global startups. 
 - 2025/2026 Goals: Contribute more to Open Source projects.
-- I have a degree in Computer Science and Engineering(NSU).
+- I have graduated in Computer Science and Engineering from NSU.
 <br />
 
 
@@ -50,7 +50,7 @@ You can use the website to generate badges: https://shields.io/
 ### Softwear Developer tools:
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
