@@ -22,9 +22,6 @@
 - 2025/2026 Goals: Contribute more to Open Source projects.
 - I have graduated in Computer Science and Engineering from NSU.
   
-### Languages and Tools:
-<br />
-
 ### ML & DS Research tools:
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -58,6 +55,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
+
 <br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IamShakiburRahman&show_icons=true&locale=en&layout=compact" alt="IamShakiburRahman" /></p>
