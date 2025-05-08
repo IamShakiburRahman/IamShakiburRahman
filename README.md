@@ -60,8 +60,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IamShakiburRahman&show_icons=true&locale=en&layout=compact" alt="IamShakiburRahman" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IamShakiburRahman&show_icons=true&locale=en" alt="IamShakiburRahman" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IamShakiburRahman" alt="IamShakiburRahman" /></a> </p>
+
 ### My Recent post on Medium!
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sachin93/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sachin93/0" alt="Recent Article 0">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IamShakiburRahman" alt="IamShakiburRahman" /></a> </p>
 
