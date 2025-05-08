@@ -8,7 +8,7 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/iamshakibur)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/shakiburrahman_)
 &nbsp;
-## I'm a Machine Learning/Deep Learning Enthusiast and Full-Stack Softwear Developer!
+## I'm a Machine Learning/Deep Learning Enthusiast and Full-Stack Software Developer!
 
 - I’m currently working on building my knowledge in the field of Data Science!
   - Learning Computer Vision, Natural Language Processing
