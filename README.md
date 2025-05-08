@@ -18,7 +18,7 @@
   - Deep Learning for Coders by [fast.ai](http://course.fast.ai)
   - DeepLearning.AI TensorFlow Developer [Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
   - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow [Book](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-- Founder : A SAAS platform and exploring different global startups. 
+- Founder : a SAAS platform and exploring different global startups. 
 - 2025/2026 Goals: Contribute more to Open Source projects.
 - I have graduated in Computer Science and Engineering from NSU.
   
