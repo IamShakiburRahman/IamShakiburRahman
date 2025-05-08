@@ -11,7 +11,7 @@ You can use the website to generate badges: https://shields.io/
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/iamshakibur)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/shakiburrahman_)
 &nbsp;
-## I'm a Machine Learning/Deep Learning Enthusiast!
+## I'm a Machine Learning/Deep Learning Enthusiast and mid-level Softwear developer!
 
 - I’m currently working on building my knowledge in the field of Data Science!
   - Learning Computer Vision, Natural Language Processing
@@ -22,8 +22,8 @@ You can use the website to generate badges: https://shields.io/
   - DeepLearning.AI TensorFlow Developer [Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
   - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow [Book](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - I’m looking to collaborate with other content creators
-- 2020/2021 Goals: Contribute more to Open Source projects
-- Fun fact: I have a degree in Civil Engineering! :construction_worker:
+- 2025/2026 Goals: Contribute more to Open Source projects
+- I have a degree in Computer Science and Engineering.
 <br />
 
 ### Now Playing on Spotify <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
