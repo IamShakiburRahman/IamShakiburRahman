@@ -1,5 +1,4 @@
 ![ViewCount](https://views.whatilearened.today/views/github/IamShakiburRahman/IamShakiburRahman.svg?cache=remove)
-
 ### Hi there, I'm Shakibur Rahman <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/IamShakiburRahman)
@@ -63,8 +62,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IamShakiburRahman&show_icons=true&locale=en" alt="IamShakiburRahman" /></p>
 ### My Recent post on Medium!
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sachin93/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sachin93/0" alt="Recent Article 0">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IamShakiburRahman&label=Profile%20views&color=0e75b6&style=flat" alt="IamShakiburRahman" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IamShakiburRahman" alt="IamShakiburRahman" /></a> </p>
 
