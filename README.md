@@ -1,4 +1,5 @@
 ![ViewCount](https://views.whatilearened.today/views/github/IamShakiburRahman/IamShakiburRahman.svg?cache=remove)
+
 ### Hi there, I'm Shakibur Rahman <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/IamShakiburRahman)
@@ -21,8 +22,7 @@
 - Founder : SAAS platform and exploring different global startups. 
 - 2025/2026 Goals: Contribute more to Open Source projects.
 - I have graduated in Computer Science and Engineering from NSU.
-<br />
-
+  
 ### Languages and Tools:
 <br />
 ### ML & DS Research tools:
@@ -41,7 +41,6 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <br />
-
 ### Softwear Developer tools:
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
