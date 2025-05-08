@@ -1,8 +1,5 @@
 ![ViewCount](https://views.whatilearened.today/views/github/IamShakiburRahman/IamShakiburRahman.svg?cache=remove)
 ### Hi there, I'm Shakibur Rahman <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
 
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/IamShakiburRahman)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mdshakiburrahman/)
@@ -26,12 +23,10 @@ You can use the website to generate badges: https://shields.io/
 - I have graduated in Computer Science and Engineering from NSU.
 <br />
 
-
 ### Languages and Tools:
 <br />
 ### ML & DS Research tools:
-<p>
-  
+
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
@@ -45,8 +40,8 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-  
 <br />
+
 ### Softwear Developer tools:
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
@@ -67,12 +62,8 @@ You can use the website to generate badges: https://shields.io/
   
 <br />
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IamShakiburRahman&show_icons=true&locale=en&layout=compact" alt="IamShakiburRahman" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IamShakiburRahman&show_icons=true&locale=en" alt="IamShakiburRahman" /></p>
-
-
 </p>
 
 ### My Recent post on Medium!
