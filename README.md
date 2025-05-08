@@ -1,6 +1,6 @@
 ![ViewCount](https://views.whatilearened.today/views/github/IamShakiburRahman/IamShakiburRahman.svg?cache=remove)
-
 ### Hi there, I'm Shakibur Rahman <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+
 
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/IamShakiburRahman)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mdshakiburrahman/)
@@ -19,7 +19,7 @@
   - Deep Learning for Coders by [fast.ai](http://course.fast.ai)
   - DeepLearning.AI TensorFlow Developer [Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
   - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow [Book](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-- Founder : SAAS platform and exploring different global startups. 
+- Founder : A SAAS platform and exploring different global startups. 
 - 2025/2026 Goals: Contribute more to Open Source projects.
 - I have graduated in Computer Science and Engineering from NSU.
   
@@ -58,12 +58,8 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
-  
 <br />
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IamShakiburRahman&show_icons=true&locale=en&layout=compact" alt="IamShakiburRahman" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IamShakiburRahman&show_icons=true&locale=en" alt="IamShakiburRahman" /></p>
-</p>
-
 ### My Recent post on Medium!
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sachin93/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sachin93/0" alt="Recent Article 0">
